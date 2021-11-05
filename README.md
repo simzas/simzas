@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @simzas
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning programming, studying applied informatics
+- 📫 How to reach me - https://www.facebook.com/simon.zasadil.7/
