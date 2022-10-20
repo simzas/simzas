@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @simzas
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning programming, studying applied informatics
+- 👀 I work as QA Engineer and learning Analytics from colleagues
+- 🌱 I’m currently learning Data Science at University of Hradec Králové (Master's degree), gradueated Aplied Informatics (Bachelor's degree) in 2022
 - 📫 How to reach me - https://www.facebook.com/simon.zasadil.7/
